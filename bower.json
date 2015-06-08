@@ -1,0 +1,20 @@
+{
+  "name": "sekp-guide",
+  "version": "0.0.0",
+  "authors": [
+    "Vagios Vlachos <bagios234@gmail.com>"
+  ],
+  "main": "index.html",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
