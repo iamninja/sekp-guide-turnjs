@@ -1,2 +1,5 @@
 # Ignore bower_components
 bower_components/
+
+# Vim related
+*.swp
